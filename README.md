@@ -10,8 +10,7 @@ Puis, entrer la commande `nodemon` pour démarrer le backend.
 
 ## Frontend
 
-Pour initialiser le frontend, il faut lancer la commander `npm i` dans le dossier /frontend/cms-react . 
-Il faut également créer un dossier .env (cf .env.example) avec le nom de votre base de données.
+Pour initialiser le frontend, il faut lancer la commander `npm i` dans le dossier /frontend .
 Toujours dans le même dossier, entrer la commande `npm start` pour démarrer le backend. (Attention, le port 3000 est déjà pris par le backend).
 
 
